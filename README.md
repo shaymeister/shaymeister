@@ -9,4 +9,4 @@ My work focuses on developing efficient, hardware-aware representations and lear
 ### 📬 Contact
 - Email: ssnyde9 [at] gmu.edu  
 - Google Scholar: [https://scholar.google.com/citations?user=Uy9ODnIAAAAJ&hl=en](https://scholar.google.com/citations?user=Uy9ODnIAAAAJ&hl=en)
-- LinkedIn: [www.linkedin.com/in/shay-snyder](www.linkedin.com/in/shay-snyder)
+- LinkedIn: [www.linkedin.com/in/shay-snyder](https://linkedin.com/in/shay-snyder)
